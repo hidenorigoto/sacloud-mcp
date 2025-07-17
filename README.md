@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hidenorigoto-sacloud-mcp-badge.png)](https://mseep.ai/app/hidenorigoto-sacloud-mcp)
+
 # Sakura Cloud MCP Server
 
 A Model Context Protocol (MCP) server implementation for interacting with Sakura Cloud's API.
